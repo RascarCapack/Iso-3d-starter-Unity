@@ -12,6 +12,7 @@ Features:
 -Character controller with double jump and dash
 -Outline and see through shaders, made with renderer features
 -Simple blob shadow
+-Dust particle system that plays on character movement
 -Controller support with Unity Input System
 -Pick and drop objects, throw and kick
 -Stylised explosion visual effect, bomb model and sparks particle system
