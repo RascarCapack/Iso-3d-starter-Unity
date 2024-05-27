@@ -5,6 +5,7 @@ This is a collection of assets meant to kickstart your isometric 3d games in Uni
 I hope you will find it useful. I will keep adding stuff to it as time passes.
 
 SETUP:
+  Download the ZIP file and unzip it on your machine.
   Drag and drop the Unity package in a new unity urp project and import everything.
 For everything to work you will then need to either:
 -go to "Assets" in the top bar and click on "re-import all".
