@@ -4,6 +4,18 @@ Thanks for checking the Isometric 3d starter pack for Unity URP !
 This is a collection of assets meant to kickstart your isometric 3d games in Unity.
 I hope you will find it useful. I will keep adding stuff to it as time passes.
 
+![](https://github.com/RascarCapack/Iso-3d-starter-Unity/blob/main/isoStarterGif2.gif)
+
+Features:
+-Simple camera follow
+-Camera aim with mouse (relative to player position)
+-Character controller with double jump and dash
+-Outline and see through shaders, made with renderer features
+-Simple blob shadow
+-Controller support with Unity Input System
+-Pick and drop objects, throw and kick
+-Stylised explosion visual effect, bomb model and sparks particle system
+
 SETUP:
   Download the ZIP file and unzip it on your machine.
   Drag and drop the Unity package in a new unity urp project and import everything.
