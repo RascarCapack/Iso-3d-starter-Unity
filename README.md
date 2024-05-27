@@ -7,8 +7,7 @@ I hope you will find it useful. I will keep adding stuff to it as time passes.
 ![](https://github.com/RascarCapack/Iso-3d-starter-Unity/blob/main/isoStarterGif2.gif)
 
 Features:
--Simple camera follow
--Camera aim with mouse (relative to player position)
+-Simple camera follow script and camera aim with mouse relative to player position
 -Character controller with double jump and dash
 -Outline and see through shaders, made with renderer features
 -Simple blob shadow
