@@ -2,7 +2,7 @@
 Thanks for checking the Isometric 3d starter pack for Unity URP !
 
 This is a collection of assets meant to kickstart your isometric 3d games in Unity.
-I hope you will find it useful. I will keep adding stuff to it as time passes.
+I hope you will find it useful. I will keep adding stuff to it as time passes. 
 
 ![](https://github.com/RascarCapack/Iso-3d-starter-Unity/blob/main/isoStarterGif2.gif)
 
